@@ -1,0 +1,101 @@
+record_id,arrival_time,service_type,urgency,estimated_duration,student_type,document_complete,special_assistance
+1,2026-10-03 13:27,Enrollment,High,22,Graduating,Yes,Yes
+2,2026-10-03 14:19,Scholarship,High,32,Graduating,Yes,No
+3,2026-10-03 13:08,Enrollment,Medium,50,Non-Graduating,Yes,No
+4,2026-10-03 13:01,Financial Aid,Low,5,Non-Graduating,,No
+5,2026-10-03 10:22,Registrar,High,53,Non-Graduating,Yes,Yes
+6,2026-10-03 15:13,Financial Aid,Medium,56,Graduating,Yes,Yes
+7,2026-10-03 15:52,Document Request,High,23,Non-Graduating,Yes,No
+8,2026-10-03 12:55,Registrar,Low,7,Non-Graduating,Yes,No
+9,2026-10-03 15:17,Registrar,Low,29,Graduating,Yes,No
+10,,Financial Aid,High,22,Non-Graduating,Yes,Yes
+11,2026-10-03 13:25,Registrar,Medium,20,Graduating,Yes,No
+12,2026-10-03 13:27,Clearance,Medium,48,Non-Graduating,Yes,Yes
+13,2026-10-03 15:00,Enrollment,Low,30,Graduating,Yes,No
+14,2026-10-03 15:28,Clearance,Medium,46,Non-Graduating,No,No
+15,2026-10-03 09:13,Financial Aid,High,52,Non-Graduating,Yes,No
+16,2026-10-03 15:39,Scholarship,Medium,19,Non-Graduating,Yes,No
+17,2026-10-03 14:26,Enrollment,Low,14,Non-Graduating,Yes,No
+18,2026-10-03 08:32,Document Request,Medium,34,Non-Graduating,No,No
+19,2026-10-03 08:05,Clearance,Low,48,,Yes,No
+20,2026-10-03 10:54,Enrollment,Medium,15,Non-Graduating,No,No
+21,2026-10-03 10:14,Scholarship,Low,37,Non-Graduating,No,No
+22,2026-10-03 13:27,Scholarship,Medium,14,Non-Graduating,Yes,No
+23,2026-10-03 15:52,,Low,43,Non-Graduating,Yes,No
+24,2026-10-03 15:29,Financial Aid,High,20,Non-Graduating,No,Yes
+25,2026-10-03 12:08,Enrollment,Low,39,Non-Graduating,Yes,No
+26,2026-10-03 12:41,Registrar,Medium,60,Non-Graduating,No,No
+27,2026-10-03 14:26,Clearance,,50,Non-Graduating,No,No
+28,2026-10-03 11:44,Scholarship,Medium,20,Graduating,Yes,No
+29,2026-10-03 09:57,Scholarship,High,9,Non-Graduating,Yes,Yes
+30,2026-10-03 08:16,Financial Aid,High,20,Graduating,Yes,No
+31,2026-10-03 14:10,Scholarship,Medium,20,Non-Graduating,Yes,Yes
+32,2026-10-03 08:49,Clearance,Medium,32,Non-Graduating,No,Yes
+33,2026-10-03 13:34,Clearance,High,30,Non-Graduating,Yes,Yes
+34,2026-10-03 09:38,Registrar,Medium,13,Non-Graduating,Yes,No
+35,2026-10-03 15:52,Enrollment,Medium,60,Non-Graduating,Yes,No
+36,2026-10-03 12:36,Enrollment,Low,53,Non-Graduating,Yes,No
+37,2026-10-03 09:49,Document Request,Low,15,Non-Graduating,No,No
+38,2026-10-03 14:41,Document Request,Medium,,Non-Graduating,No,No
+39,2026-10-03 14:07,Document Request,High,23,Graduating,Yes,No
+40,2026-10-03 08:31,Clearance,Medium,8,Non-Graduating,Yes,No
+41,2026-10-03 09:20,Enrollment,Low,10,Non-Graduating,Yes,Yes
+42,2026-10-03 15:21,Registrar,Medium,41,Graduating,Yes,No
+43,2026-10-03 11:34,Clearance,Medium,38,Non-Graduating,Yes,No
+44,2026-10-03 10:40,Registrar,Medium,13,Non-Graduating,Yes,No
+45,2026-10-03 14:24,Enrollment,High,44,Non-Graduating,No,Yes
+46,2026-10-03 09:49,Scholarship,Medium,27,Non-Graduating,No,No
+47,,Document Request,Low,50,Non-Graduating,No,No
+48,2026-10-03 12:30,Enrollment,Medium,40,Graduating,Yes,No
+49,2026-10-03 09:08,Financial Aid,High,11,Non-Graduating,Yes,No
+50,2026-10-03 09:47,Clearance,Medium,48,Non-Graduating,Yes,No
+51,2026-10-03 15:43,Enrollment,High,32,Non-Graduating,Yes,No
+52,2026-10-03 09:06,Clearance,Low,15,Non-Graduating,Yes,No
+53,2026-10-03 08:04,Enrollment,,49,Non-Graduating,Yes,No
+54,2026-10-03 12:58,Scholarship,High,13,Graduating,Yes,No
+55,2026-10-03 15:20,Enrollment,Low,18,Non-Graduating,Yes,No
+56,2026-10-03 12:46,Document Request,Low,52,Graduating,No,No
+57,2026-10-03 14:49,Registrar,Low,6,Graduating,No,No
+58,2026-10-03 11:30,Clearance,Low,56,Graduating,Yes,No
+59,2026-10-03 11:15,Enrollment,Low,19,Graduating,No,No
+60,2026-10-03 15:00,Registrar,High,47,Graduating,Yes,No
+61,2026-10-03 14:35,Financial Aid,Medium,37,Non-Graduating,No,No
+62,2026-10-03 16:00,Enrollment,High,21,Graduating,No,No
+63,2026-10-03 08:55,Scholarship,Medium,51,Non-Graduating,Yes,No
+64,2026-10-03 08:59,Document Request,Low,17,Graduating,Yes,
+65,2026-10-03 15:53,Scholarship,Medium,52,Non-Graduating,Yes,No
+66,2026-10-03 13:40,Financial Aid,Medium,47,Non-Graduating,Yes,No
+67,2026-10-03 10:38,Clearance,Medium,30,Non-Graduating,Yes,Yes
+68,2026-10-03 13:40,Document Request,Medium,16,Non-Graduating,Yes,No
+69,2026-10-03 08:00,Financial Aid,Medium,32,Non-Graduating,Yes,No
+70,2026-10-03 11:46,Document Request,Medium,37,Non-Graduating,No,No
+71,2026-10-03 09:26,Clearance,High,37,Non-Graduating,Yes,Yes
+72,2026-10-03 14:24,Registrar,Medium,19,Non-Graduating,Yes,Yes
+73,2026-10-03 12:03,Scholarship,Low,9,Non-Graduating,No,No
+74,2026-10-03 14:07,Clearance,Medium,30,,Yes,Yes
+75,2026-10-03 14:24,Enrollment,Low,19,Graduating,No,No
+76,2026-10-03 08:25,Scholarship,High,59,Graduating,Yes,No
+77,2026-10-03 12:31,Scholarship,Medium,53,Non-Graduating,Yes,No
+78,2026-10-03 12:18,Document Request,Low,40,Non-Graduating,Yes,No
+79,2026-10-03 11:50,Financial Aid,Low,58,Non-Graduating,Yes,No
+80,2026-10-03 13:20,Registrar,Medium,9,Non-Graduating,Yes,No
+81,2026-10-03 15:37,Scholarship,High,14,Graduating,Yes,No
+82,2026-10-03 08:32,Document Request,Medium,39,Non-Graduating,Yes,No
+83,2026-10-03 11:19,Scholarship,Low,6,Non-Graduating,Yes,No
+84,2026-10-03 08:03,Financial Aid,Medium,29,Non-Graduating,No,No
+85,2026-10-03 14:22,Clearance,Medium,43,Non-Graduating,Yes,No
+86,2026-10-03 12:08,Enrollment,Medium,47,Non-Graduating,Yes,Yes
+87,2026-10-03 11:59,Registrar,Low,39,Graduating,Yes,No
+88,2026-10-03 08:13,,Medium,13,Non-Graduating,Yes,No
+89,2026-10-03 10:47,Registrar,Medium,26,Non-Graduating,Yes,No
+90,2026-10-03 15:05,Document Request,Medium,10,Non-Graduating,Yes,Yes
+91,2026-10-03 10:59,Registrar,Medium,54,Non-Graduating,Yes,Yes
+92,2026-10-03 10:06,Registrar,Low,44,Graduating,Yes,No
+93,2026-10-03 12:48,Registrar,Medium,21,Non-Graduating,Yes,No
+94,2026-10-03 14:22,Clearance,High,57,Graduating,Yes,No
+95,2026-10-03 15:55,Financial Aid,Medium,29,Non-Graduating,Yes,Yes
+96,2026-10-03 13:53,Clearance,High,49,Non-Graduating,No,No
+97,2026-10-03 09:01,Scholarship,Low,27,Non-Graduating,Yes,Yes
+98,2026-10-03 13:31,Financial Aid,High,31,Non-Graduating,Yes,No
+99,2026-10-03 13:25,Document Request,,32,Graduating,Yes,No
+100,2026-10-03 13:15,Scholarship,Low,34,Non-Graduating,Yes,No
