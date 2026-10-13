@@ -29,9 +29,11 @@ The project uses a priority-scoring method and compares its results with a First
 **ALGORITHMS USED**
 
 _1. PRIORITY SCORING_
+
 Each record receives points based on urgency and service-related factors. Records are sorted from the highest score to the lowest score. Arrival time is used as the tie-breaker when two records have the same score.
 
 _2. FIRST-IN, FIRST-OUT (FIFO)_
+
 Records are arranged according to arrival time. The student who arrived first is placed first in the queue.
 
 
