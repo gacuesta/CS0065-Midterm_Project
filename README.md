@@ -160,7 +160,7 @@ The repository contains the following files:
 - Additional factors may be needed before using the system in an actual campus office.
 - The priority score is designed for transparency.
 
-===============================================================================
+====================================
 
 **CONTRIBUTORS**
 
